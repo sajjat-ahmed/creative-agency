@@ -1,0 +1,7 @@
+.serviceBox:hover{
+  border-radius:8px;
+  cursor:pointer;
+  transform:scale(1.08);
+  box-shadow:1px 1px 20px whitesmoke, -1px -1px 20px whitesmoke;
+  transition:transform 0.8s;
+}
